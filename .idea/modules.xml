@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/SSM-Learning-Blog.iml" filepath="$PROJECT_DIR$/.idea/SSM-Learning-Blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/allinone/allinone.iml" filepath="$PROJECT_DIR$/allinone/allinone.iml" />
     </modules>
   </component>
 </project>
