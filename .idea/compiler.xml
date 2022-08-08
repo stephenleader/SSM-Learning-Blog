@@ -9,13 +9,15 @@
         <module name="allinone" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="11">
       <module name="allinone" target="1.8" />
+      <module name="thymeleaf_learn" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="allinone" options="-parameters" />
+      <module name="thymeleaf_learn" options="-parameters" />
     </option>
   </component>
 </project>

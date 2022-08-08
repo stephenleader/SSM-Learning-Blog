@@ -108,4 +108,6 @@ pets：
 pets：[cat,dog,pig]
 ```
 
-yaml可以直接给实体类赋值
+yaml可以直接给实体类赋值,就是一些对象
+
+
